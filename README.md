@@ -1,2 +1,0 @@
-# Contoh-python
-Tutor
